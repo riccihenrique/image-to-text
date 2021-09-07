@@ -7,7 +7,7 @@ Transform your images in text with dots.
 ```pip install opencv-python```
 
 
-# Execution
+# Run
 
 run ``` python DotImage.py ```
 
